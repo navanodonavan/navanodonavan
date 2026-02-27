@@ -33,7 +33,7 @@ I'm a Workday Integrations Architect/Developer currently pursuing my masters deg
 
 - **Solar Power Generation Forecasting**
   - Deep learning for weather-driven power prediction  
-  - Repo: https://github.com/navanodonavan/MSAAI530FinalProject_Group6
+  - Repo: https://github.com/navanodonavan/Solar_Power_Gen_Weather_Impacts_Deep_Learning_MSAAI530
 
 ## Languages & Tools
 
