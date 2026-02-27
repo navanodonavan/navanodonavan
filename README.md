@@ -21,7 +21,7 @@ I'm a Workday Integrations Architect/Developer currently pursuing my masters deg
     
 - **Speech Emotion Recognition System (CNN–LSTM)**
   - Tech: Python, PyTorch, audio features, evaluation pipelines  
-  - Repo: https://github.com/navanodonavan/MSAAI501FinalProject_Group7
+  - Repo: https://github.com/navanodonavan/SER_CNN_LSTM_MSAAI501
 
 - **Facial Emotion Recognition (Computer Vision)**
   - Deep learning computer vision system for classifying facial emotions from FER-2013 grayscale images using CNNs + transfer learning (VGG16, MobileNetV2), with evaluation via confusion matrix and classification metrics  
