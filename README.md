@@ -29,7 +29,7 @@ I'm a Workday Integrations Architect/Developer currently pursuing my masters deg
     
 - **Fake Job Posting Detection (DistilBERT)**
   - Transformer-based text classification  
-  - Repo: https://github.com/navanodonavan/MSAAI510FinalProject_Group4
+  - Repo: https://github.com/navanodonavan/Detecting_Fake_Job_Postings_DistilBERT_MSAAI510
 
 - **Solar Power Generation Forecasting**
   - Deep learning for weather-driven power prediction  
