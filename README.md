@@ -25,7 +25,7 @@ I'm a Workday Integrations Architect/Developer currently pursuing my masters deg
 
 - **Facial Emotion Recognition (Computer Vision)**
   - Deep learning computer vision system for classifying facial emotions from FER-2013 grayscale images using CNNs + transfer learning (VGG16, MobileNetV2), with evaluation via confusion matrix and classification metrics  
-  - Repo: https://github.com/navanodonavan/MSAAI521FinalProject_Group5
+  - Repo: https://github.com/navanodonavan/Facial_Emotion_Recognition_with_Deep_Learning_MSAAI521
     
 - **Fake Job Posting Detection (DistilBERT)**
   - Transformer-based text classification  
