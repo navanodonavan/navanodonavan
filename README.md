@@ -17,7 +17,7 @@ I'm a Workday Integrations Architect/Developer currently pursuing my masters deg
  
 - **Autonomous Investment Research Agent (Agentic AI)**
   - Multi-agent AI system leveraging CrewAI, LLMs, and tool orchestration to automate financial research, task routing, and evaluator-driven refinement  
-  - Repo: https://github.com/navanodonavan/MSAAI520FinalProject_Group10
+  - Repo: https://github.com/navanodonavan/Autonomous_Investment_Research_Agent_AI_MSAAI520
     
 - **Speech Emotion Recognition System (CNN–LSTM)**
   - Tech: Python, PyTorch, audio features, evaluation pipelines  
