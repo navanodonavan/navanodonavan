@@ -7,7 +7,8 @@ I'm a Workday Integrations Architect/Developer currently pursuing my masters deg
 - Leveraging 15+ years of experience trading equities and options to build intelligent trading systems that learn, adapt, and evolve with changing market conditions.
 
 ## Capstone Project
-- Designing a Market Regime Detection framework using machine learning to classify volatility and structural shifts, enabling adaptive parameter optimization for short-term trading strategies.
+- Transformer-based deep learning framework for predicting trade follow-through in intraday trading
+- Repo: https://github.com/navanodonavan/Transformer_Based_Follow_Through_Prediction_ML_MSAAI590
 
 ## Featured Projects
 
