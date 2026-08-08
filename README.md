@@ -1,10 +1,7 @@
 # Hi, I'm Donavan
 
 ## About Me
-I'm a Workday Integrations Architect/Developer currently pursuing my masters degree in [Applied Artificial Intelligence at University of San Diego](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php). 
-
-## Current Focus
-- Leveraging 15+ years of experience trading equities and options to build intelligent trading systems that learn, adapt, and evolve with changing market conditions.
+I'm a Workday Integrations Architect/Engineer. I recently completed my masters degree in [Applied Artificial Intelligence at University of San Diego](https://www.sandiego.edu/engineering/graduate/ms-applied-artificial-intelligence.php). 
 
 ## Capstone Project
 - Transformer-based deep learning framework for predicting trade follow-through in intraday trading
